@@ -1,2 +1,2 @@
 # Fashion-Business-Insights
-Les objectifs de ce projet sont au cœur de la démarche visant à transformer des données brutes en insights exploitables pour une meilleure prise de décision. 
+Les objectifs de ce projet sont au cœur de la démarche visant à transformer des données brutes en insights exploitables pour une meilleure prise de décision. À travers le développement du tableau de bord Fashion Business Insights, nous cherchons à analyser les performances commerciales, à comprendre les préférences des clients, et à optimiser les processus opérationnels. Ces objectifs permettent de structurer le projet afin d'aligner les actions sur les besoins stratégiques du secteur de la mode, tout en offrant des solutions concrètes pour maximiser l’efficacité et la compétitivité.
